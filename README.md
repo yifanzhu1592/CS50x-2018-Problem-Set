@@ -1,2 +1,2 @@
 # CS50x-2018-Problem-Set
-This repository will include all Problem Sets in the course CS50's Introduction to Computer Science by Harvard, enjoy your time!
+This repository will include nearly all the Problem Sets in the course CS50's Introduction to Computer Science by Harvard, and I will give my solutions to every problem, enjoy your time!
