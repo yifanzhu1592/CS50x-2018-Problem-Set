@@ -4,6 +4,7 @@
 // Number: 378282246310005
 // AMEX
 
+
 #include <stdio.h>
 #include <cs50.h>
 
